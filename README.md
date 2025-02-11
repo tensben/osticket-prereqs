@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 Welcome to the first section of the IT tutorial. In this section, you will create a Virtual Machine (VM), a remote computer, using the Microsoft Azure portal (portal.azure.com). Once you log into Azure, go to virtual machines and select Create. For resource group, create a new resource group and name it osTicket. Name your virtual machine. I called it similar to the resource osticket-vm. Next, pick a region for your VM. In Image, select  Windows 10 Pro, version 22H2 - x64 Gen 2. For the size of the CPU, make sure it is between 2 - 4 CPUs.  After selecting the size of your CPUs, create a username and password to log into the virtual machine. I recommend using Notepad to keep track of the username and passwords for this tutorial. Make sure to check under licensing to confirm, then select Review-Create.
-![Screenshot 2025-01-13 093033](https://github.com/user-attachments/assets/e8e4eb85-3c56-4218-aba1-e12c00adfc52)
+![image](https://github.com/user-attachments/assets/e8e4eb85-3c56-4218-aba1-e12c00adfc52)
 
 </p>
 <p>
