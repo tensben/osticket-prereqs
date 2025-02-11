@@ -193,6 +193,38 @@ Once we finish the osTicket configurations and extensions, we will continue sett
 <br />
 
 <p>
+
+![Screenshot 2025-01-13 113342](https://github.com/user-attachments/assets/c8e4fba8-7df7-4dfe-9cf0-89e580194c68)
+
+![Screenshot 2025-01-13 113403](https://github.com/user-attachments/assets/2dbb896e-3c1a-4bf6-a033-1b2724b719d6)
+  
+</p>
+<p>
+For Database Settings, we are going back to the osTicket Installation File folder to install HeidiSQL, which allows us to connect to the database. Open HeidiSQL, select Create New, and type in the MySQL username and password created when setting MySQL earlier. In HeidiSQL, create a new database called osTicket. 
+</p>
+<br />
+
+<p>
+
+![Screenshot 2025-01-13 114015](https://github.com/user-attachments/assets/4208f991-862e-4816-99b3-26bb306390a5)
+
+![Screenshot 2025-01-13 114136](https://github.com/user-attachments/assets/ac59674d-4f1b-4a9b-87fc-433ed4477c4d)
+
+![Screenshot 2025-01-13 114232](https://github.com/user-attachments/assets/c8d4eaeb-a594-4a2d-96a0-a48b3ec27c82)
+
+![Screenshot 2025-01-13 114536](https://github.com/user-attachments/assets/ad147822-9d3d-4af3-8543-fb67f205c4ce)
+  
+</p>
+
+<p>
+Return to Database Setting in MySQL Database type osTicket. For MySQL, type in the username and password. Click Install Now.  You’ll see the osTicket Installer Congratulations page when installed successfully. 
+</p>
+<br />
+
+<p>
+
+![Screenshot 2025-01-13 114908](https://github.com/user-attachments/assets/26076003-f142-4734-84bc-1b0f01e76b28)
+
   
 </p>
 <p>
